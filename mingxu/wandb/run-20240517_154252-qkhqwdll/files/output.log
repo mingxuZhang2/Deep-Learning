@@ -1,0 +1,185 @@
+
+  0%|          | 0/50 [00:00<?, ?it/s]
+
+
+  0%|          | 0/50 [00:33<?, ?it/s]2.53it/s]
+Files already downloaded and verified
+Files already downloaded and verified
+['apple', 'aquarium_fish', 'baby', 'bear', 'beaver', 'bed', 'bee', 'beetle', 'bicycle', 'bottle', 'bowl', 'boy', 'bridge', 'bus', 'butterfly', 'camel', 'can', 'castle', 'caterpillar', 'cattle', 'chair', 'chimpanzee', 'clock', 'cloud', 'cockroach', 'couch', 'crab', 'crocodile', 'cup', 'dinosaur', 'dolphin', 'elephant', 'flatfish', 'forest', 'fox', 'girl', 'hamster', 'house', 'kangaroo', 'keyboard', 'lamp', 'lawn_mower', 'leopard', 'lion', 'lizard', 'lobster', 'man', 'maple_tree', 'motorcycle', 'mountain', 'mouse', 'mushroom', 'oak_tree', 'orange', 'orchid', 'otter', 'palm_tree', 'pear', 'pickup_truck', 'pine_tree', 'plain', 'plate', 'poppy', 'porcupine', 'possum', 'rabbit', 'raccoon', 'ray', 'road', 'rocket', 'rose', 'sea', 'seal', 'shark', 'shrew', 'skunk', 'skyscraper', 'snail', 'snake', 'spider', 'squirrel', 'streetcar', 'sunflower', 'sweet_pepper', 'table', 'tank', 'telephone', 'television', 'tiger', 'tractor', 'train', 'trout', 'tulip', 'turtle', 'wardrobe', 'whale', 'willow_tree', 'wolf', 'woman', 'worm']
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+  0%|          | 0/50 [00:00<?, ?it/s]
+
+  2%|▏         | 1/50 [00:31<26:05, 31.96s/it]]
+Test Accuracy (Overall):  9% (989/10000)
+Epoch: 1 	Training Loss: 4.305073 	Validation Loss: 3.798613
+Validation loss decreased (inf --> 3.798613).  Saving model ...
+
+ 91%|█████████ | 72/79 [00:03<00:00, 22.57it/s]
+Test Accuracy (Overall): 16% (1670/10000)
+Epoch: 2 	Training Loss: 3.699378 	Validation Loss: 3.378238
+
+  4%|▍         | 2/50 [01:04<25:50, 32.31s/it]]
+
+ 90%|████████▉ | 71/79 [00:03<00:00, 23.47it/s]
+Test Accuracy (Overall): 25% (2527/10000)
+Epoch: 3 	Training Loss: 3.262682 	Validation Loss: 2.945842
+
+  6%|▌         | 3/50 [01:36<25:13, 32.21s/it]]
+
+ 80%|███████▉  | 63/79 [00:02<00:00, 23.85it/s]
+Test Accuracy (Overall): 31% (3190/10000)
+Epoch: 4 	Training Loss: 2.822173 	Validation Loss: 2.596881
+
+  8%|▊         | 4/50 [02:09<24:45, 32.29s/it]]
+
+ 72%|███████▏  | 57/79 [00:02<00:01, 21.87it/s]
+Test Accuracy (Overall): 36% (3685/10000)
+Epoch: 5 	Training Loss: 2.466624 	Validation Loss: 2.480629
+
+ 10%|█         | 5/50 [02:41<24:12, 32.29s/it]]
+
+ 72%|███████▏  | 57/79 [00:02<00:01, 21.99it/s]
+Test Accuracy (Overall): 41% (4118/10000)
+Epoch: 6 	Training Loss: 2.187416 	Validation Loss: 2.182441
+
+ 12%|█▏        | 6/50 [03:13<23:38, 32.23s/it]]
+
+ 68%|██████▊   | 54/79 [00:02<00:01, 23.05it/s]
+Test Accuracy (Overall): 42% (4239/10000)
+Epoch: 7 	Training Loss: 1.950870 	Validation Loss: 2.162142
+
+ 14%|█▍        | 7/50 [03:45<23:01, 32.13s/it]]
+
+ 76%|███████▌  | 60/79 [00:02<00:00, 22.54it/s]
+Test Accuracy (Overall): 46% (4613/10000)
+Epoch: 8 	Training Loss: 1.726582 	Validation Loss: 1.975038
+
+ 16%|█▌        | 8/50 [04:17<22:28, 32.10s/it]]
+
+ 68%|██████▊   | 54/79 [00:02<00:01, 21.64it/s]
+Test Accuracy (Overall): 48% (4899/10000)
+Epoch: 9 	Training Loss: 1.502139 	Validation Loss: 1.882323
+
+ 18%|█▊        | 9/50 [04:49<21:57, 32.14s/it]]
+
+ 72%|███████▏  | 57/79 [00:02<00:00, 22.46it/s]
+Test Accuracy (Overall): 48% (4815/10000)
+
+ 20%|██        | 10/50 [05:21<21:19, 31.99s/it]
+
+ 72%|███████▏  | 57/79 [00:02<00:00, 22.81it/s]
+Test Accuracy (Overall): 49% (4921/10000)
+
+ 22%|██▏       | 11/50 [05:53<20:47, 31.98s/it]
+
+ 84%|████████▎ | 66/79 [00:02<00:00, 22.72it/s]
+Test Accuracy (Overall): 48% (4876/10000)
+
+ 24%|██▍       | 12/50 [06:24<20:11, 31.89s/it]
+
+ 95%|█████████▍| 75/79 [00:03<00:00, 23.68it/s]
+Test Accuracy (Overall): 49% (4951/10000)
+
+ 26%|██▌       | 13/50 [06:56<19:37, 31.82s/it]
+
+ 26%|██▌       | 13/50 [07:28<21:16, 34.49s/it]
+Test Accuracy (Overall): 48% (4893/10000)

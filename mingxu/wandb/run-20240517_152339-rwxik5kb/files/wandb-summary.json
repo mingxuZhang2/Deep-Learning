@@ -1,0 +1,1 @@
+{"acc_plane": 0.51, "_timestamp": 1715931731.7486074, "_runtime": 1111.9380073547363, "_step": 347, "acc_car": 0.25, "acc_bird": 0.01, "acc_cat": 0.01, "acc_deer": 0.03, "acc_dog": 0.23, "acc_frog": 0.16, "acc_horse": 0.27, "acc_ship": 0.18, "acc_truck": 0.23, "acc": 0.2169, "training_loss": 3.498916426849365, "val_loss": 3.152386493682861}
