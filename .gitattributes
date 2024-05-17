@@ -1,2 +1,4 @@
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
 /mingxu/data/** filter=lfs diff=lfs merge=lfs -text
+/mingxu/data/**.pth filter=lfs diff=lfs merge=lfs -text
+/mingxu/**.pth filter=lfs diff=lfs merge=lfs -text
