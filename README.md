@@ -35,3 +35,15 @@ In previous assignment, we have already implement a simple ResNet model with res
 | *BatchNorm2d*    | 256             | -           | -      | -       | -        |                            |
 | **Dropout**      | -               | -           | -      | -       | -        | p=0.5                      |
 | **Linear**       | 100             | -           | -      | -       | Yes      | Final fully connected layer|
+
+The hyperparameters used in the model are as follows:
+
+| Hyperparameters            | Value      | 
+|-----------------|---------|
+| `learning_rate` | `5e-3`  | 
+| `epochs`        | `50`    | 
+| `batch_size`    | `128`   | 
+| `dropout_rate`  | `0.5`   | 
+| `stride`        | `1` or `2` | 
+| `weight_decay`  | `1e-4`  | 
+
